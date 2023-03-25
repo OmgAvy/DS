@@ -131,7 +131,8 @@ dmypy.json
 .vscode/
 data/
 DL/
-ML/
+ML/Machine-Learning-Collection/
+ML/Other/
 projects/
 scratch/
 unix_env/
